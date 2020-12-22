@@ -427,4 +427,51 @@ a {
 .payment2__info {
   width: 670px;
 }
+
+/* general */
+.general {
+  margin: 80px;
+}
+
+.general--lead {
+  max-width: 770px;
+  margin: 0 auto;
+}
+
+.general__info {
+  text-align: center;
+  width: 600px;
+}
+
+.general__inner {
+  width: 92%;
+  max-width: 1170px;
+  margin: 0 auto;
+}
+
+.general__title {
+  margin-top: 30px;
+  font-size: 18px;
+  color: #2F2F35;
+  font-weight: bold;
+}
+
+.general__border {
+  margin: 0 8px;
+  border-radius: 5px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  width: 230px;
+  border: 1px solid #F1F1F1;
+  text-align: center;
+}
+
+.general__flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
 /*# sourceMappingURL=style.css.map */
